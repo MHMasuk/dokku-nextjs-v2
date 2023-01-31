@@ -58,7 +58,7 @@ export default function Home() {
             />
 
           </div>
-            <h1>APP 2</h1>
+            <h1>APP 2 Super simple</h1>
         </div>
 
         <div className={styles.grid}>
